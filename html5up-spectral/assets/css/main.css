@@ -3855,7 +3855,7 @@ body.is-preload #banner:after {
   -webkit-order: 1;
   -ms-order: 1;
   order: 1;
-  padding-right: 3em;
+  padding-right: 0em; /* 2do! */
   width: 70%;
 }
 
