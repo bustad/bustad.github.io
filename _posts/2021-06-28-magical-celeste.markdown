@@ -2,7 +2,7 @@
 layout: post
 title: "Magical Celeste"
 date: 2021-06-28 16:46:00 +0200
-categories: kontakt-instrument
+categories: kontakt-instruments
 ---
 
 I think that ever since I heard ["Hedwig's Theme"](https://youtu.be/I35XMs5J7II) for the first time I have been curious as to what instrument it really is that plays the melody. I've heard the instrument [celeste](https://www.vsl.co.at/en/Percussions/Celesta) mentioned numerous times, but most samples of a celeste don't sound quite like the Harry Potter score. I stumbled across [a fascinating analysis](https://filmmusicnotes.com/2013/04/13/john-williams-themes-part-6-of-6-hedwigs-theme-from-harry-potter/) of the theme that also mentioned that the sound is electronically manipulated. Some further digging [revealed](https://youtu.be/eOCJkrbQWaE) that the sound used in the Harry Potter score is actually a mix of a sampled celeste and a Yamaha DX7 playing a sine wave. There even seems to be a commercial Kontakt instrument called ["Randy’s Celeste"](https://cinesamples.com/product/randy-s-celeste) based on this sound. So, fascinated by this sound I wanted to try to recreate it and see what happens when different aspects and components of the sound are varied.
