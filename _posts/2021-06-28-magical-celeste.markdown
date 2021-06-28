@@ -9,7 +9,7 @@ I think that ever since I heard ["Hedwig's Theme"](https://youtu.be/I35XMs5J7II)
 
 I found some [free public domain celeste samples](https://freesound.org/people/stamperadam/packs/6166/) and made my own wave file containing a sine wave. I edited a few of the celeste samples to remove some clicks and adjusted the starting position, tuning and loudness of every sample according to the [EBU R128 measurement method](https://tech.ebu.ch/loudness). I built the Kontakt instrument using [Kontakt version 6.5.3](https://www.native-instruments.com/en/products/komplete/samplers/kontakt-6/) and learned the basics of [KSP scripting](https://www.native-instruments.com/en/products/komplete/samplers/kontakt-6/downloads/) along the way. The user interface I built using [Canva](https://www.canva.com/).
 
-![screenshot](/assets/screenshot.png)
+![screenshot](/images/screenshot.png)
 
 The features of this instrument are now the following:
 
