@@ -18,6 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+author: Christofer Bustad
 title: Some of my personal projects and random thoughts.
 name: Christofer Bustad
 email: christofer_bustad@hotmail.com
