@@ -2,7 +2,6 @@
 layout: post
 title: "Magical Celeste"
 date: 2021-06-28 16:46:00 +0200
-categories: kontakt-instruments
 tags: [Kontakt instruments]
 ---
 
