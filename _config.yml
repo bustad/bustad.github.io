@@ -18,16 +18,19 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-author: 
+author:
   name: Christofer Bustad
-  email: christofer_bustad AT hotmail.com
-title: Some of my personal projects and random thoughts.
+  email: christofer_bustad at hotmail dot com
+title: bustad.github.io
 name: Christofer Bustad
 email: christofer_bustad@hotmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is my personal website where I write about personal projects
+  and random thoughts.
+#  Some of my personal projects and random thoughts.
+#  Write an awesome description for your new site here. You can edit this
+#  line in _config.yml. It will appear in your document head meta (for
+#  Google search results) and in your feed.xml site description.
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "https://bustad.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
