@@ -4,5 +4,3 @@
 
 layout: home2
 ---
-
-Hello and welcome to my site. Feel free to check out the posts below.
