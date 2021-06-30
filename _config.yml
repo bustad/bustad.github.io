@@ -6,7 +6,7 @@ baseurl:            ""
 url:                "https://bustad.github.io"
 
 # Social Profiles
-twitter_username:   
+twitter_username:   @CBustad
 github_username:    bustad
 facebook_username:  
 instagram_username:  
@@ -17,7 +17,7 @@ google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
 
 # Build settings
 markdown:           kramdown
-paginate:           5
+paginate:           10
 paginate_path:      "/posts/page:num/"
 plugins:
   - jekyll-feed
