@@ -16,7 +16,6 @@ I found some [free public domain celeste samples](https://freesound.org/people/s
 <img class="img-fluid" src="/img/posts/magical-celeste-screenshot.png" alt="Screenshot">
 
 The features of this instrument are now the following:
-
 - Celeste samples
   - The transition between the two velocity layers of the celeste samples can be adjusted using the normal/medium/soft buttons. Soft means that only the soft velocity layer is used.
   - Volume
