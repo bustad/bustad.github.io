@@ -13,7 +13,7 @@ I found some [free public domain celeste samples](https://freesound.org/people/s
 
 <!-- ![screenshot](/images/screenshot.png) -->
 
-<img class="img-fluid" src="/images/screenshot.png" alt="Screenshot">
+<img class="img-fluid" src="/img/posts/magical-celeste-screenshot.png" alt="Screenshot">
 
 The features of this instrument are now the following:
 
