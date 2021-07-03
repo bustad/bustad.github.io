@@ -11,7 +11,7 @@ published: true
 <!-- https://unsplash.com/photos/KJCyvlA_aAQ -->
 <!-- https://unsplash.com/photos/mz471WAXhCU -->
 
-I've always been quite fond of the colors in the spectral frequency display of [Adobe Audition](https://www.adobe.com/se/products/audition.html). They look quite pretty and are also very helpful in discerning small differences in intensity. 
+I've always been quite fond of the colors used in the spectral frequency display of [Adobe Audition](https://www.adobe.com/se/products/audition.html). It looks quite pretty and the colors are also very helpful in discerning small differences in intensity. 
 
 <img class="img-fluid" src="/img/posts/audition.jpg" alt="Screenshot">
 
@@ -22,4 +22,4 @@ Recently I came accross a fascinating presentation about he work behind
 <iframe style="position:absolute;top:0;left:0;bottom:0;right:0;width:100%;height:100%;" src="https://www.youtube.com/embed/xAoljeRJ3lU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-The search continuse... :telescope: :smiley:
+The search continues... :telescope: :smiley:
