@@ -17,6 +17,7 @@ I've always been quite fond of the colors in the spectral frequency display of [
 
 Recently I came accross a fascinating presentation about he work behind
 
+<!-- https://www.w3schools.com/howto/howto_css_responsive_iframes.asp -->
 <div style="position:relative;overflow:hidden;width:100%;padding-top:56.25%;">
 <iframe style="position:absolute;top:0;left:0;bottom:0;right:0;width:100%;height:100%;" src="https://www.youtube.com/embed/xAoljeRJ3lU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
