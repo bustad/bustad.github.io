@@ -17,6 +17,8 @@ I've always been quite fond of the colors in the spectral frequency display of [
 
 Recently I came accross a fascinating presentation about he work behind
 
+<div class="img-fluid">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xAoljeRJ3lU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 The search continuse... :telescope: :smiley:
