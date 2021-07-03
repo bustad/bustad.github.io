@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "In search of the nicest colormap"
-subtitle: "Pretty, usefule, versatile..."
+subtitle: "Pretty, colorful, useful, versatile, perceptually uniform..."
 date: 2021-07-03 09:24:00 +0200
 tags: [Random thoughts]
 background: '/img/posts/marc-schulte-KJCyvlA_aAQ-unsplash.jpg'
