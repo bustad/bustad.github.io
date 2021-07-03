@@ -74,6 +74,10 @@ I also own a copy of [iZotope RX 7](https://www.izotope.com/en/products/rx.html)
 
 <img class="img-fluid" src="/img/posts/rx7-viscm.png" alt="Screenshot">
 
+Finally, a colormap that looks similar to the one in Adobe Audition, but a little different and I guess a little better, is the one used at [https://src.infinitewave.ca/](https://src.infinitewave.ca/). 
+
+<img class="img-fluid" src="/img/posts/src.infinitewave.ca.png" alt="Screenshot">
+
 In finding the right colormap to use for a project, there is also the option of designing your own brand new colormap. This can be done though viscm like this.
 ```
 python -m viscm edit
