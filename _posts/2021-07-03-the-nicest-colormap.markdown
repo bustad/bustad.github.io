@@ -66,7 +66,7 @@ Returning to the colors used in the spectral frequency display of Adobe Audition
 
 Running viscm on one of the horrisontal lines in the middle of this yields the following.
 
-<img class="img-fluid" src="/img/posts/audition-viscm.jpg" alt="Screenshot">
+<img class="img-fluid" src="/img/posts/audition-viscm.png" alt="Screenshot">
 
 ```
 python -m viscm edit
