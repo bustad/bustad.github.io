@@ -15,7 +15,7 @@ I've always been quite fond of the colors used in the spectral frequency display
 
 <img class="img-fluid" src="/img/posts/audition.jpg" alt="Screenshot">
 
-Recently I came accross a fascinating presentation about he work behind
+Recently I came accross a fascinating presentation about the work behind some new colomaps for [Matplotlib](https://matplotlib.org/). 
 
 <!-- https://www.w3schools.com/howto/howto_css_responsive_iframes.asp -->
 <div style="position:relative;overflow:hidden;width:100%;padding-top:56.25%;">
