@@ -22,7 +22,7 @@ Recently, I came accross a fascinating presentation about the work behind some n
 <iframe style="position:absolute;top:0;left:0;bottom:0;right:0;width:100%;height:100%;" src="https://www.youtube.com/embed/xAoljeRJ3lU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-The colormaps magma, inferno, plasma and viridis and the tools [colorspacious](https://pypi.org/project/colorspacious/) and [viscm](https://pypi.org/project/viscm/) that they developed are described [here](https://bids.github.io/colormap/) and [here](https://github.com/bids/colormap). These colormaps are visualized below.
+The colormaps magma, inferno, plasma and viridis and the tools [colorspacious](https://pypi.org/project/colorspacious/) and [viscm](https://pypi.org/project/viscm/) that they developed are described [here](https://bids.github.io/colormap/) and [here](https://github.com/bids/colormap). The colormaps are visualized below.
 
 ```
 python -m viscm view magma --save magma.png --quit --uniform-space buggy-CAM02-UCS
@@ -43,5 +43,21 @@ python -m viscm view plasma --save plasma.png --quit --uniform-space buggy-CAM02
 python -m viscm view viridis --save viridis.png --quit --uniform-space buggy-CAM02-UCS
 ```
 <img class="img-fluid" src="/img/posts/viridis.png" alt="Screenshot">
+
+I also found some quite pretty colormaps in the [cmocean](https://matplotlib.org/cmocean/) package, such as [thermal](https://matplotlib.org/cmocean/#thermal) and [ice](https://matplotlib.org/cmocean/#ice).
+
+```python
+from viscm import viscm
+import cmocean
+viscm(cmocean.cm.thermal)
+```
+<img class="img-fluid" src="/img/posts/thermal.png" alt="Screenshot">
+
+```python
+from viscm import viscm
+import cmocean
+viscm(cmocean.cm.ice)
+```
+<img class="img-fluid" src="/img/posts/ice.png" alt="Screenshot">
 
 The search continues... :telescope: :smiley:
