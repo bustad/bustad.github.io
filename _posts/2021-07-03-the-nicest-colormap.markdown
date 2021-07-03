@@ -15,7 +15,7 @@ I've always been quite fond of the colors used in the spectral frequency display
 
 <img class="img-fluid" src="/img/posts/audition.jpg" alt="Screenshot">
 
-Recently, I came accross a fascinating presentation about the work behind some new colomaps for [Matplotlib](https://matplotlib.org/). They set out to develop some colormaps that are colorful, pretty, sequential, perceptually uniform, black-and-white compatible and accessible to colorblind viewers. The video also includes a fascinating crash course in color theory. Highly recommended.
+Recently, I came across a fascinating presentation about the work behind some new colormaps for [Matplotlib](https://matplotlib.org/). They set out to develop some colormaps that are colorful, pretty, sequential, perceptually uniform, black-and-white compatible and accessible to colorblind viewers. The video also includes a fascinating crash course in color theory. Highly recommended.
 
 <!-- https://www.w3schools.com/howto/howto_css_responsive_iframes.asp -->
 <div style="position:relative;overflow:hidden;width:100%;padding-top:56.25%;">
@@ -64,7 +64,7 @@ Returning to the colors used in the spectral frequency display of Adobe Audition
 
 <img class="img-fluid" src="/img/posts/audition-crop.jpg" alt="Screenshot">
 
-Running viscm on one of the horrisontal lines in the middle of this yields the following.
+Running viscm on one of the horizontal lines in the middle of this yields the following.
 
 <img class="img-fluid" src="/img/posts/audition-viscm.png" alt="Screenshot">
 
