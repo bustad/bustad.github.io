@@ -22,6 +22,8 @@ Recently, I came accross a fascinating presentation about the work behind some n
 <iframe style="position:absolute;top:0;left:0;bottom:0;right:0;width:100%;height:100%;" src="https://www.youtube.com/embed/xAoljeRJ3lU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+The four colormaps and the tools [colorspacious](https://pypi.org/project/colorspacious/) and [viscm](https://pypi.org/project/viscm/) that they developed are described [here](https://bids.github.io/colormap/) and [here](https://github.com/bids/colormap). 
+
 ```python
 pip install viscm
 ```
