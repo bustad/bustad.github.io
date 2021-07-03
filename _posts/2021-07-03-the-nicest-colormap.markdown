@@ -60,7 +60,10 @@ viscm(cmocean.cm.ice)
 ```
 <img class="img-fluid" src="/img/posts/ice.png" alt="Screenshot">
 
-Returning to the colors used in the spectral frequency display of Adobe Audition, I wanted to evaluate this colormap in the same tool as above. So I made a sine wave at 1125 Hz so that it would align nicely with one of the center frequencies of the FFT. I then applied an exponential decay from 0 dBFS to -150 dBFS to capture the full range of the colormap. 
+Returning to the colors used in the spectral frequency display of Adobe Audition, I wanted to evaluate this colormap in the same tool as above. So I made a sine wave at 1125 Hz so that it would align nicely with one of the center frequencies of the FFT. I then applied an exponential decay from 0 dBFS to -150 dBFS to capture the full range of the colormap. A screenshot of a zoom-in of this frequency looks like this.
+<img class="img-fluid" src="/img/posts/Audition_crop.jpg" alt="Screenshot">
+
+
 
 ```
 python -m viscm edit
