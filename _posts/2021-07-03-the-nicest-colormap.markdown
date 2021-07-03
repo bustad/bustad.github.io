@@ -68,6 +68,9 @@ Running viscm on one of the horrisontal lines in the middle of this yields the f
 
 <img class="img-fluid" src="/img/posts/audition-viscm.png" alt="Screenshot">
 
+Perhaps this colormap is pretty, but maybe not really as good as I thought it was. I did use an older version of Adobe Audition so perhaps newer versions use a more perceptually uniform colormap. 
+
+In finding the right colormap to use for a project, there is also the option of designing your own brand new colormap. This can be done though viscm like this.
 ```
 python -m viscm edit
 ```
