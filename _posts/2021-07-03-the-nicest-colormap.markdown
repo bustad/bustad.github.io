@@ -22,7 +22,7 @@ Recently, I came across a fascinating presentation about the work behind some ne
 <iframe style="position:absolute;top:0;left:0;bottom:0;right:0;width:100%;height:100%;" src="https://www.youtube.com/embed/xAoljeRJ3lU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-The colormaps magma, inferno, plasma and viridis and the tools [colorspacious](https://pypi.org/project/colorspacious/) and [viscm](https://pypi.org/project/viscm/) that they developed are described [here](https://bids.github.io/colormap/) and [here](https://github.com/bids/colormap). The colormaps are visualized below.
+The colormaps magma, inferno, plasma and viridis and the tools [colorspacious](https://pypi.org/project/colorspacious/) and [viscm](https://pypi.org/project/viscm/) that they developed are described [here](https://bids.github.io/colormap/) and [here](https://github.com/bids/colormap). These colormaps, now included beside many others in [Matplotlib](https://matplotlib.org/stable/tutorials/colors/colormaps.html), are visualized below.
 
 ```
 python -m viscm view magma --save magma.png --quit --uniform-space buggy-CAM02-UCS
