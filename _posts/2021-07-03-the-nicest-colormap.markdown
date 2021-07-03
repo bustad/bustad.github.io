@@ -11,12 +11,12 @@ published: true
 <!-- https://unsplash.com/photos/KJCyvlA_aAQ -->
 <!-- https://unsplash.com/photos/mz471WAXhCU -->
 
-I've always been quite fond of the colors in the spectral view of [Adobe Audition](https://www.adobe.com/se/products/audition.html). They both look quite pretty and are also very helpful in discerning small differences in intensity.
+I've always been quite fond of the colors in the spectral frequency display of [Adobe Audition](https://www.adobe.com/se/products/audition.html). They look quite pretty and are also very helpful in discerning small differences in intensity. 
 
 <img class="img-fluid" src="/img/posts/audition.jpg" alt="Screenshot">
 
+Recently I came accross a fascinating presentation about he work behind
 
 
 
-
-The search continuse... :smile:
+The search continuse... :telescope: :smiley:
