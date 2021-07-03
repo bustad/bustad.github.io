@@ -60,4 +60,10 @@ viscm(cmocean.cm.ice)
 ```
 <img class="img-fluid" src="/img/posts/ice.png" alt="Screenshot">
 
+Returning to the colors used in the spectral frequency display of Adobe Audition, 
+
+```
+python -m viscm edit
+```
+
 The search continues... :telescope: :smiley:
