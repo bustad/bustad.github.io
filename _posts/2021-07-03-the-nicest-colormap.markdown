@@ -82,6 +82,6 @@ In finding the right colormap to use for a project, there is also the option of 
 ```
 python -m viscm edit
 ```
-<img class="img-fluid" src="/img/posts/viscm-edit.png" alt="Screenshot">
+<img class="img-fluid" src="/img/posts/viscm-editor.png" alt="Screenshot">
 
 The search continues... :telescope: :smiley:
