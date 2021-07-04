@@ -78,9 +78,10 @@ Finally, a colormap that looks similar to the one in Adobe Audition, but a littl
 
 <img class="img-fluid" src="/img/posts/src.infinitewave.ca.png" alt="Screenshot">
 
-In finding the right colormap to use for a project, there is also the option of designing your own brand new colormap. This can be done though viscm like this.
+In finding the right colormap to use for a project, there is also the option of designing your own brand new colormap. This can be done though viscm like this, which opens up a user friendly editor.
 ```
 python -m viscm edit
 ```
+<img class="img-fluid" src="/img/posts/viscm-edit.png" alt="Screenshot">
 
 The search continues... :telescope: :smiley:
