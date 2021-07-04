@@ -74,7 +74,7 @@ I also own a copy of [iZotope RX 7](https://www.izotope.com/en/products/rx.html)
 
 <img class="img-fluid" src="/img/posts/rx7-viscm.png" alt="Screenshot">
 
-Finally, a colormap that looks similar to the one in Adobe Audition, but a little different and I guess a little better, is the one used at [https://src.infinitewave.ca/](https://src.infinitewave.ca/). 
+Finally, a colormap that looks similar to the one in Adobe Audition, but a little different and I guess a little better, is the one used at [https://src.infinitewave.ca/](https://src.infinitewave.ca/). (This site I highly recommend for their many comparisons of sample rate converters.)
 
 <img class="img-fluid" src="/img/posts/src.infinitewave.ca.png" alt="Screenshot">
 
