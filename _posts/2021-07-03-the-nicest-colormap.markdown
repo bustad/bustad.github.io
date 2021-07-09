@@ -88,8 +88,8 @@ $
 R = 
 \cases{
 0  & \text{if } 0.00 \le x \lt 0.13 \cr
-0  & \text{if } 0.13 \le x \lt 0.73 \cr
--x & \text{if } 0.73 \le x \le 1.00
+sin((x - 0.13) / 0.60 * \pi / 2)  & \text{if } 0.13 \le x \lt 0.73 \cr
+1 & \text{if } 0.73 \le x \le 1.00
 }
 $
 
