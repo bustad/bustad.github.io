@@ -83,7 +83,7 @@ Finally,
 
 <!-- https://benlansdell.github.io/computing/mathjax/ -->
 {% raw %}
-$$K(a,b) = \int \mathcal{D}x(t) \exp(2\pi i S[x]/\hbar)$$
+*** K(a,b) = \int \mathcal{D}x(t) \exp(2\pi i S[x]/\hbar) ***
 {% endraw %}
 
 In finding the right colormap to use for a project, there is also the option of designing your own brand new colormap. This can be done though viscm like this, which opens up a user friendly editor.
