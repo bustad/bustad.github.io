@@ -91,12 +91,9 @@ R =
 0  & \text{if } x\ge 0\cr
 -x & \text{if } x\lt 0
 }
-G = 
-\cases{
-0  & \text{if } x\ge 0\cr
-0  & \text{if } x\ge 0\cr
--x & \text{if } x\lt 0
-}
+$
+<br>
+$
 G = 
 \cases{
 0  & \text{if } x\ge 0\cr
@@ -104,6 +101,16 @@ G =
 -x & \text{if } x\lt 0
 }
 $
+<br>
+$
+B = 
+\cases{
+0  & \text{if } x\ge 0\cr
+0  & \text{if } x\ge 0\cr
+-x & \text{if } x\lt 0
+}
+$
+<br>
 where $R$, $G$ and $B$ are ... and $0 <= x <= 1$.
 
 <img class="img-fluid" src="/img/posts/sox.png" alt="Screenshot">
