@@ -79,10 +79,12 @@ A colormap that looks similar to the one in Adobe Audition, but a little differe
 
 <img class="img-fluid" src="/img/posts/src.infinitewave.ca.png" alt="Screenshot">
 
-Finally, 
+Finally, another colormap similar to both the one in Adobe Audition and the one used at [https://src.infinitewave.ca/](https://src.infinitewave.ca/) is the main one used by [SoX - Sound eXchange](http://sox.sourceforge.net/). It is described in the [source code](https://sourceforge.net/p/sox/code/ci/master/tree/src/spectrogram.c#l648) as well as below.
 
 <!-- https://benlansdell.github.io/computing/mathjax/, but needed to swap single with double dollar signs in the header, as double double dollar signs did not work well. -->
 $ K(a,b) = \int \mathcal{D}x(t) \exp(2\pi i S[x]/\hbar) $
+
+<img class="img-fluid" src="/img/posts/sox.png" alt="Screenshot">
 
 In finding the right colormap to use for a project, there is also the option of designing your own brand new colormap. This can be done though viscm like this, which opens up a user friendly editor.
 ```
