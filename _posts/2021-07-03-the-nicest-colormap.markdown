@@ -81,7 +81,7 @@ A colormap that looks similar to the one in Adobe Audition, but a little differe
 
 Finally, 
 
-<!-- https://benlansdell.github.io/computing/mathjax/ -->
+<!-- https://benlansdell.github.io/computing/mathjax/, but needed to swap single with double dollar signs in the header, as double double dollar signs did not work well. -->
 $ K(a,b) = \int \mathcal{D}x(t) \exp(2\pi i S[x]/\hbar) $
 
 In finding the right colormap to use for a project, there is also the option of designing your own brand new colormap. This can be done though viscm like this, which opens up a user friendly editor.
