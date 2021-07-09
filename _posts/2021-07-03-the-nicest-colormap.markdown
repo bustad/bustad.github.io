@@ -111,7 +111,7 @@ B =
 }
 $
 <br>
-where $R$, $G$ and $B$ are ... and $0 \eqslantless x \eqslantless 1$.
+where $R$, $G$ and $B$ are ... and $0 \le x \le 1$.
 
 <img class="img-fluid" src="/img/posts/sox.png" alt="Screenshot">
 
