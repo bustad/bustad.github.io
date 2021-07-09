@@ -106,9 +106,9 @@ $
 $
 B = 
 \cases{
-{1 \over 2} \sin \left( { x \over 0.60 } \pi \right)  & \quad \text{if } \quad 0.00 \le x \lt 0.60 \cr
-0 & \quad \text{if } \quad 0.60 \le x \lt 0.78 \cr
-{x - 0.78} \over 0.22 & \quad \text{if } \quad 0.78 \le x \le 1.00
+{1 \over 2} \sin \left( { x \over 0.60 } \pi \right) \quad &  \text{if } \quad 0.00 \le x \lt 0.60 \cr
+0 & \text{if } \quad 0.60 \le x \lt 0.78 \cr
+{x - 0.78} \over 0.22 & \text{if } \quad 0.78 \le x \le 1.00
 }
 $
 
