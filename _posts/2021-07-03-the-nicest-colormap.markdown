@@ -111,7 +111,7 @@ B =
 }
 $
 <br>
-where $R$, $G$ and $B$ are ... and $0 \le x \le 1$.
+where $R$, $G$ and $B$ are the intensities of the colors red, green and blue and $0 \le x \le 1$ is the position on the colormap.
 
 <img class="img-fluid" src="/img/posts/sox.png" alt="Screenshot">
 
