@@ -85,12 +85,26 @@ Finally, another colormap similar to both the one in Adobe Audition and the one 
 $ K(a,b) = \int \mathcal{D}x(t) \exp(2\pi i S[x]/\hbar) $
 
 $
-|x| = 
+R = 
 \cases{
-x  & \text{if } x\ge 0\cr
+0  & \text{if } x\ge 0\cr
+0  & \text{if } x\ge 0\cr
+-x & \text{if } x\lt 0
+}
+G = 
+\cases{
+0  & \text{if } x\ge 0\cr
+0  & \text{if } x\ge 0\cr
+-x & \text{if } x\lt 0
+}
+G = 
+\cases{
+0  & \text{if } x\ge 0\cr
+0  & \text{if } x\ge 0\cr
 -x & \text{if } x\lt 0
 }
 $
+where $R$, $G$ and $B$ are ... and $0 <= x <= 1$.
 
 <img class="img-fluid" src="/img/posts/sox.png" alt="Screenshot">
 
