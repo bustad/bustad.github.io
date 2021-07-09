@@ -88,7 +88,7 @@ $
 R = 
 \cases{
 0  & \text{if } 0.00 \le x \lt 0.13 \cr
-\sin( {x - 0.13 \over 0.60 }{ \pi \over 2 } )  & \text{if } 0.13 \le x \lt 0.73 \cr
+\sin \left {x - 0.13 \over 0.60 }{ \pi \over 2 } \right  & \text{if } 0.13 \le x \lt 0.73 \cr
 1 & \text{if } 0.73 \le x \le 1.00
 }
 $
