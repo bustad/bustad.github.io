@@ -6,6 +6,7 @@ date: 2021-07-03 09:24:00 +0200
 tags: [Random thoughts]
 background: '/img/posts/marc-schulte-KJCyvlA_aAQ-unsplash.jpg'
 published: true
+use_math: true
 ---
 
 <!-- https://unsplash.com/photos/KJCyvlA_aAQ -->
@@ -74,9 +75,18 @@ I also own a copy of [iZotope RX 7](https://www.izotope.com/en/products/rx.html)
 
 <img class="img-fluid" src="/img/posts/rx7-viscm.png" alt="Screenshot">
 
-Finally, a colormap that looks similar to the one in Adobe Audition, but a little different and I guess a little better, is the one used at [https://src.infinitewave.ca/](https://src.infinitewave.ca/). (This site I highly recommend for their many comparisons of sample rate converters.)
+A colormap that looks similar to the one in Adobe Audition, but a little different and I guess a little better, is the one used at [https://src.infinitewave.ca/](https://src.infinitewave.ca/). (This site I highly recommend for their many comparisons of sample rate converters.)
 
 <img class="img-fluid" src="/img/posts/src.infinitewave.ca.png" alt="Screenshot">
+
+Finally, 
+
+<!-- https://benlansdell.github.io/computing/mathjax/ -->
+{% raw %}
+$$
+K(a,b) = \int \mathcal{D}x(t) \exp(2\pi i S[x]/\hbar)
+$$
+{% endraw %}
 
 In finding the right colormap to use for a project, there is also the option of designing your own brand new colormap. This can be done though viscm like this, which opens up a user friendly editor.
 ```
