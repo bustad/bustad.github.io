@@ -90,6 +90,13 @@ f(x)=
     0,              & \text{otherwise}
 \end{cases}
 $
+$
+|x| = 
+\cases{
+x  & \text{if } x\ge 0\cr
+-x & \text{if } x\lt 0
+}
+$
 <img class="img-fluid" src="/img/posts/sox.png" alt="Screenshot">
 
 In finding the right colormap to use for a project, there is also the option of designing your own brand new colormap. This can be done though viscm like this, which opens up a user friendly editor.
