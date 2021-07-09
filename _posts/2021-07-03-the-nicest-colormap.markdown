@@ -106,8 +106,8 @@ $
 $
 B = 
 \cases{
-0  & \text{if } \quad 0.00 \le x \lt 0.60 \cr
-\sin \left( { {x - 0.13} \over 0.60 }{ \pi \over 2 } \right)  & \text{if } \quad 0.60 \le x \lt 0.78 \cr
+{1 \over 2} \sin \left( { x \over 0.60 } \pi } \right)  & \text{if } \quad 0.00 \le x \lt 0.60 \cr
+0 & \text{if } \quad 0.60 \le x \lt 0.78 \cr
 1 & \text{if } \quad 0.78 \le x \le 1.00
 }
 $
