@@ -84,11 +84,12 @@ Finally, another colormap similar to both the one in Adobe Audition and the one 
 <!-- https://benlansdell.github.io/computing/mathjax/, but needed to swap single with double dollar signs in the header, as double double dollar signs did not work well. -->
 <!-- https://www.onemathematicalcat.org/MathJaxDocumentation/TeXSyntax.htm -->
 <!-- http://docs.mathjax.org/en/latest/index.html -->
+<!-- https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference -->
 $
 R = 
 \cases{
 0  & \text{if } 0.00 \le x \lt 0.13 \cr
-\sin \left {x - 0.13 \over 0.60 }{ \pi \over 2 } \right  & \text{if } 0.13 \le x \lt 0.73 \cr
+\sin \left( {x - 0.13 \over 0.60 }{ \pi \over 2 } \right)  & \text{if } 0.13 \le x \lt 0.73 \cr
 1 & \text{if } 0.73 \le x \le 1.00
 }
 $
