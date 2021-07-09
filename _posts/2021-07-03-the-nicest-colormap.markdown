@@ -87,9 +87,9 @@ Finally, another colormap similar to both the one in Adobe Audition and the one 
 $
 R = 
 \cases{
-0  & \text{if } 0    \ge x \lt 0.13 \cr
-0  & \text{if } 0.13 \ge x \lt 0.73 \cr
--x & \text{if } 0.73 \ge x \lt 1
+0  & \text{if } 0.00 \le x \lt 0.13 \cr
+0  & \text{if } 0.13 \le x \lt 0.73 \cr
+-x & \text{if } 0.73 \le x \le 1.00
 }
 $
 
