@@ -82,8 +82,8 @@ A colormap that looks similar to the one in Adobe Audition, but a little differe
 Finally, another colormap similar to both the one in Adobe Audition and the one used at [https://src.infinitewave.ca/](https://src.infinitewave.ca/) is the main one used by [SoX - Sound eXchange](http://sox.sourceforge.net/). It is described in the [source code](https://sourceforge.net/p/sox/code/ci/master/tree/src/spectrogram.c#l648) as well as below.
 
 <!-- https://benlansdell.github.io/computing/mathjax/, but needed to swap single with double dollar signs in the header, as double double dollar signs did not work well. -->
-$ K(a,b) = \int \mathcal{D}x(t) \exp(2\pi i S[x]/\hbar) $
-
+<!-- https://www.onemathematicalcat.org/MathJaxDocumentation/TeXSyntax.htm -->
+<!-- http://docs.mathjax.org/en/latest/index.html -->
 $
 R = 
 \cases{
@@ -111,7 +111,7 @@ B =
 }
 $
 <br>
-where $R$, $G$ and $B$ are ... and $0 <= x <= 1$.
+where $R$, $G$ and $B$ are ... and $0 \eqslantless x \eqslantless 1$.
 
 <img class="img-fluid" src="/img/posts/sox.png" alt="Screenshot">
 
